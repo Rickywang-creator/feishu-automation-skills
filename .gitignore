@@ -1,0 +1,6 @@
+# 敏感信息
+*credentials*
+*token*
+*password*
+*secret*
+*.log
